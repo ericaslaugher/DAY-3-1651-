@@ -1,0 +1,30 @@
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.exe
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.deps.json
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.runtimeconfig.json
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.dll
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.pdb
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.AssemblyReference.cache
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfoInputs.cache
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfo.cs
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.CoreCompileInputs.cache
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.dll
+C:\1951\TicketSelling\obj\Debug\net6.0\refint\TicketSelling.dll
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.pdb
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.genruntimeconfig.cache
+C:\1951\TicketSelling\obj\Debug\net6.0\ref\TicketSelling.dll
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\bin\Debug\net6.0\TicketSelling.exe
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\bin\Debug\net6.0\TicketSelling.deps.json
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\bin\Debug\net6.0\TicketSelling.runtimeconfig.json
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\bin\Debug\net6.0\TicketSelling.dll
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\bin\Debug\net6.0\TicketSelling.pdb
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.AssemblyReference.cache
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\TicketSelling.GeneratedMSBuildEditorConfig.editorconfig
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfoInputs.cache
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfo.cs
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.CoreCompileInputs.cache
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\TicketSelling.dll
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\refint\TicketSelling.dll
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\TicketSelling.pdb
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\TicketSelling.genruntimeconfig.cache
+F:\GCH1001\1651 - Advance Programming\Lesson\TicketSelling\obj\Debug\net6.0\ref\TicketSelling.dll

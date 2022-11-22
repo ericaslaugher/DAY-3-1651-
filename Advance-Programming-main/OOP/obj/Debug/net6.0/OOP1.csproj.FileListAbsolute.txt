@@ -1,0 +1,45 @@
+C:\1951\OOP1\bin\Debug\net6.0\OOP1.exe
+C:\1951\OOP1\bin\Debug\net6.0\OOP1.deps.json
+C:\1951\OOP1\bin\Debug\net6.0\OOP1.runtimeconfig.json
+C:\1951\OOP1\bin\Debug\net6.0\OOP1.dll
+C:\1951\OOP1\bin\Debug\net6.0\OOP1.pdb
+C:\1951\OOP1\obj\Debug\net6.0\OOP1.csproj.AssemblyReference.cache
+C:\1951\OOP1\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+C:\1951\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+C:\1951\OOP1\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+C:\1951\OOP1\obj\Debug\net6.0\OOP1.dll
+C:\1951\OOP1\obj\Debug\net6.0\refint\OOP1.dll
+C:\1951\OOP1\obj\Debug\net6.0\OOP1.pdb
+C:\1951\OOP1\obj\Debug\net6.0\OOP1.genruntimeconfig.cache
+C:\1951\OOP1\obj\Debug\net6.0\ref\OOP1.dll
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\OOP1.csproj.AssemblyReference.cache
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\OOP1.dll
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\refint\OOP1.dll
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\OOP1.pdb
+F:\GCH1001\1651 - Advance\Lesson\OOP1\bin\Debug\net6.0\OOP1.exe
+F:\GCH1001\1651 - Advance\Lesson\OOP1\bin\Debug\net6.0\OOP1.deps.json
+F:\GCH1001\1651 - Advance\Lesson\OOP1\bin\Debug\net6.0\OOP1.runtimeconfig.json
+F:\GCH1001\1651 - Advance\Lesson\OOP1\bin\Debug\net6.0\OOP1.dll
+F:\GCH1001\1651 - Advance\Lesson\OOP1\bin\Debug\net6.0\OOP1.pdb
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\OOP1.genruntimeconfig.cache
+F:\GCH1001\1651 - Advance\Lesson\OOP1\obj\Debug\net6.0\ref\OOP1.dll
+F:\GCH1001\1651 - Advance\Lesson\OOP\bin\Debug\net6.0\OOP1.exe
+F:\GCH1001\1651 - Advance\Lesson\OOP\bin\Debug\net6.0\OOP1.deps.json
+F:\GCH1001\1651 - Advance\Lesson\OOP\bin\Debug\net6.0\OOP1.runtimeconfig.json
+F:\GCH1001\1651 - Advance\Lesson\OOP\bin\Debug\net6.0\OOP1.dll
+F:\GCH1001\1651 - Advance\Lesson\OOP\bin\Debug\net6.0\OOP1.pdb
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\OOP1.csproj.AssemblyReference.cache
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\OOP1.dll
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\refint\OOP1.dll
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\OOP1.pdb
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\OOP1.genruntimeconfig.cache
+F:\GCH1001\1651 - Advance\Lesson\OOP\obj\Debug\net6.0\ref\OOP1.dll

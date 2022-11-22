@@ -1,0 +1,15 @@
+C:\1951\helloworld\bkb\bin\Debug\net6.0\bkb.exe
+C:\1951\helloworld\bkb\bin\Debug\net6.0\bkb.deps.json
+C:\1951\helloworld\bkb\bin\Debug\net6.0\bkb.runtimeconfig.json
+C:\1951\helloworld\bkb\bin\Debug\net6.0\bkb.dll
+C:\1951\helloworld\bkb\bin\Debug\net6.0\bkb.pdb
+C:\1951\helloworld\bkb\obj\Debug\net6.0\bkb.csproj.AssemblyReference.cache
+C:\1951\helloworld\bkb\obj\Debug\net6.0\bkb.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\helloworld\bkb\obj\Debug\net6.0\bkb.AssemblyInfoInputs.cache
+C:\1951\helloworld\bkb\obj\Debug\net6.0\bkb.AssemblyInfo.cs
+C:\1951\helloworld\bkb\obj\Debug\net6.0\bkb.csproj.CoreCompileInputs.cache
+C:\1951\helloworld\bkb\obj\Debug\net6.0\bkb.dll
+C:\1951\helloworld\bkb\obj\Debug\net6.0\refint\bkb.dll
+C:\1951\helloworld\bkb\obj\Debug\net6.0\bkb.pdb
+C:\1951\helloworld\bkb\obj\Debug\net6.0\bkb.genruntimeconfig.cache
+C:\1951\helloworld\bkb\obj\Debug\net6.0\ref\bkb.dll

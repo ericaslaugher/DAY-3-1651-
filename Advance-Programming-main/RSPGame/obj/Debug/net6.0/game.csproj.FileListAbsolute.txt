@@ -1,0 +1,30 @@
+C:\1951\game\bin\Debug\net6.0\game.exe
+C:\1951\game\bin\Debug\net6.0\game.deps.json
+C:\1951\game\bin\Debug\net6.0\game.runtimeconfig.json
+C:\1951\game\bin\Debug\net6.0\game.dll
+C:\1951\game\bin\Debug\net6.0\game.pdb
+C:\1951\game\obj\Debug\net6.0\game.csproj.AssemblyReference.cache
+C:\1951\game\obj\Debug\net6.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\game\obj\Debug\net6.0\game.AssemblyInfoInputs.cache
+C:\1951\game\obj\Debug\net6.0\game.AssemblyInfo.cs
+C:\1951\game\obj\Debug\net6.0\game.csproj.CoreCompileInputs.cache
+C:\1951\game\obj\Debug\net6.0\game.dll
+C:\1951\game\obj\Debug\net6.0\refint\game.dll
+C:\1951\game\obj\Debug\net6.0\game.pdb
+C:\1951\game\obj\Debug\net6.0\game.genruntimeconfig.cache
+C:\1951\game\obj\Debug\net6.0\ref\game.dll
+F:\GCH1001\1651 - Advance\Lesson\game\bin\Debug\net6.0\game.exe
+F:\GCH1001\1651 - Advance\Lesson\game\bin\Debug\net6.0\game.deps.json
+F:\GCH1001\1651 - Advance\Lesson\game\bin\Debug\net6.0\game.runtimeconfig.json
+F:\GCH1001\1651 - Advance\Lesson\game\bin\Debug\net6.0\game.dll
+F:\GCH1001\1651 - Advance\Lesson\game\bin\Debug\net6.0\game.pdb
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\game.csproj.AssemblyReference.cache
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\game.GeneratedMSBuildEditorConfig.editorconfig
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\game.AssemblyInfoInputs.cache
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\game.AssemblyInfo.cs
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\game.csproj.CoreCompileInputs.cache
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\game.dll
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\refint\game.dll
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\game.pdb
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\game.genruntimeconfig.cache
+F:\GCH1001\1651 - Advance\Lesson\game\obj\Debug\net6.0\ref\game.dll
